@@ -1,16 +1,28 @@
-## Hi there 👋
+# Héctor Martínez de Andrés
 
-<!--
-**hmartdean/hmartdean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate at **Universidad Carlos III de Madrid (UC3M)** and **University of Maryland (UMD)**.
 
-Here are some ideas to get you started:
+Dual Diploma graduate (Bachillerato Científico-Tecnológico + Academica International Studies).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Academic & Technical Foundation
+
+- **Programming:** Python, C, Java *(Academic coursework)*
+- **Interests:** Business Strategy, Technology Consulting, Product Management, Interactive Media & Gaming Industry
+- **Languages:** Spanish (Native), English (Bilingual / C2 equivalent)
+
+---
+
+### Education
+
+| **University of Maryland** | Computer Science Exchange Program | 2026 – Present |
+| **Universidad Carlos III de Madrid** | B.S. in Computer Science and Engineering | 2023 – Present |
+| **Academica International Studies** | American High School Dual Diploma | Completed |
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmartdean)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hmartdean@gmail.com)

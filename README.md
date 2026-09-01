@@ -8,7 +8,7 @@ Dual Diploma graduate (Bachillerato Científico-Tecnológico + Academica Interna
 
 ### Academic & Technical Foundation
 
-- **Programming:** Python, C, Java *(Academic coursework)*
+- **Programming:** Python, C, SQL *(Academic coursework)*
 - **Interests:** Business Strategy, Technology Consulting, Product Management, Interactive Media & Gaming Industry
 - **Languages:** Spanish (Native), English (Bilingual / C2 equivalent)
 

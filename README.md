@@ -15,7 +15,8 @@ Dual Diploma graduate (Bachillerato Científico-Tecnológico + Academica Interna
 ---
 
 ### Education
-
+| Institution | Program / Focus | Period |
+| :--- | :--- | :--- |
 | **University of Maryland** | Computer Science Exchange Program | 2026 – Present |
 | **Universidad Carlos III de Madrid** | B.S. in Computer Science and Engineering | 2023 – Present |
 | **Academica International Studies** | American High School Dual Diploma | Completed |
